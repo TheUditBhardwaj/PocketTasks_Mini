@@ -3,7 +3,7 @@
 **PocketTasks** is a minimal and fast offline task management app built with Flutter.  
 It lets you **add**, **search**, **filter** (All/Active/Done), **complete**, **delete**, and **undo** tasks with persistent local storage, clean state management, and a custom progress indicator.
 
-![Screenshot of PocketTasks main UI][1]
+
 
 ## Features
 
@@ -44,7 +44,7 @@ It lets you **add**, **search**, **filter** (All/Active/Done), **complete**, **d
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/pocket_tasks.git
+git clone https://github.com/TheUditBhardwaj/PocketTasks_Mini.git
 cd pocket_tasks
 ```
 
